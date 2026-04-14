@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Loans microservice"
+  contactDetails:
+    name: "Loans Support Team"
+    email: "{cipher}5d9777dfb1b3ec649c0669134047507c730774bb34c15ee23db2fb85204bab784345af5100cbf56e9a50cdc7ffefe4f0"
+  onCallSupport:
+    - (888) 555-5655
+    - (888) 555-5656

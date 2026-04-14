@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Cards microservice"
+  contactDetails:
+    name: "Cards Support Team"
+    email: "{cipher}5d9777dfb1b3ec649c0669134047507c730774bb34c15ee23db2fb85204bab784345af5100cbf56e9a50cdc7ffefe4f0"
+  onCallSupport:
+    - (888) 555-5755
+    - (888) 555-5756

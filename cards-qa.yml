@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Cards microservice QA environment APIs"
+  contactDetails:
+    name: "Cards Support Team"
+    email: "{cipher}4eeb8d3b2c8f451aebe8560a2f77ed5fd0cefd86c782cba235eea1473f7460df0a07b73666940c7895ad0b3f0eb7d16c"
+  onCallSupport:
+    - (666) 555-5755
+    - (666) 555-5756

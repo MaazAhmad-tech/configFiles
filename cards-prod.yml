@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Cards microservice PROD environment APIs"
+  contactDetails:
+    name: "Cards Support Team"
+    email: "{cipher}bf112271bb52a93f52685eef179b92a22e168977ac78c324219029e50dafeca0f9ec06a81a77c184ac95feb4d87cff65"
+  onCallSupport:
+    - (777) 555-5755
+    - (777) 555-5756
